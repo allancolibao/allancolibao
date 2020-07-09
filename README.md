@@ -1,5 +1,8 @@
-### Hi there 👋
-## hahahahha
+### Hi there 👋 
+I'm Allan Reyes Colibao. I am a design-oriented front-end developer who loves to build complex interactive web application. Check out [my Portfolio](https://arcdev.me).
+
+@arcdev
+
 
 <!--
 **allancolibao/allancolibao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
