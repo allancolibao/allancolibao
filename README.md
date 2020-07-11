@@ -1,4 +1,4 @@
-![alt text](img/cover.jpg)
+![alt text](cover.jpg)
 
 ### Hi there 👋 
 I'm Allan Reyes Colibao. I am a design-oriented front-end developer who loves to build complex interactive web application. Check out [my portfolio](https://arcdev.me).
