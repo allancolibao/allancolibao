@@ -1,4 +1,4 @@
-![alt text](https://github.com/allancolibao/allancolibao/blob/master/cover.jpg)
+![alt text](https://arcdev.me/static/images/arcdev.jpg)
 
 ### Hi there 👋 
 I'm Allan Reyes Colibao. I am a design-oriented front-end developer who loves to build complex interactive web applications. Check out [my portfolio](https://arcdev.me).
