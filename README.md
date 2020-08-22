@@ -12,13 +12,13 @@ Now, I focus on front-end stuff because I love to combine art and efficient code
 
 If you are interested in working on a project together, don't hesitate to get in touch.
 
-👉🏻 [Portfolio](https://arcdev.me)
-👉🏻 [Twitter](https://twitter.com/allancolibao)
-👉🏻 [Instagram](https://www.instagram.com/allancolibao)
-👉🏻 [LinkedIn](https://www.linkedin.com/in/allan-colibao-635902151)
+👉🏻 [Portfolio](https://arcdev.me)<br/>
+👉🏻 [Twitter](https://twitter.com/allancolibao)<br/>
+👉🏻 [Instagram](https://www.instagram.com/allancolibao)<br/>
+👉🏻 [LinkedIn](https://www.linkedin.com/in/allan-colibao-635902151)<br/>
 
 
-## 🙏 Thank you
+## Thank you 🙌🏻
 
 @arcdev
 
