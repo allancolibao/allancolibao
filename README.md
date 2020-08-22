@@ -1,22 +1,24 @@
 ![alt text](https://arcdev.me/static/images/arcdev.jpg)
 
-### Hi there 👋 
-I'm Allan Reyes Colibao. I am a design-oriented front-end developer who loves to build complex interactive web applications. Check out [my portfolio](https://arcdev.me).
+## Hello There 👋🏻 
 
-### @arcdev
+My name is Allan Reyes Colibao. I am a design-oriented Front-end Developer who loves to build complex interactive web applications.
+
+Earlier in 2019, I started working as a Web Developer. And as part of my role, I was involved in the development of applications providing efficient and effective means of data collection and management using technologies JavaScript and PHP.
+
+Now, I focus on front-end stuff because I love to combine art and efficient code in building a product. 
+
+## Let's Connect 🧑🏻 
+
+If you are interested in working on a project together, don't hesitate to get in touch.
+
+👉🏻 [Portfolio](https://arcdev.me)
+👉🏻 [Twitter](https://twitter.com/allancolibao)
+👉🏻 [Instagram](https://www.instagram.com/allancolibao)
+👉🏻 [LinkedIn](https://www.linkedin.com/in/allan-colibao-635902151)
 
 
-<!--
-**allancolibao/allancolibao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙏 Thank you
 
-Here are some ideas to get you started:
+@arcdev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
