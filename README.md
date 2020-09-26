@@ -1,5 +1,3 @@
-![alt text](https://arcdev.me/static/images/arcdev.jpg)
-
 ## Hello There 👋🏻 
 
 My name is Allan Reyes Colibao. I am a design-oriented Front-end Developer who loves to build complex interactive web applications.
