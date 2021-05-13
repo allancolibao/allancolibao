@@ -1,6 +1,6 @@
 ## Hello There 👋🏻 
 
-My name is Allan Reyes Colibao. I am a design-oriented Front-end Developer who loves to build complex interactive web applications.
+My name is Allan Reyes Colibao. I am a design-oriented Front-end Developer who loves to build modern web applications.
 
 Earlier in 2019, I started working as a Web Developer. And as part of my role, I was involved in the development of applications providing efficient and effective means of data collection and management using technologies JavaScript and PHP.
 
@@ -15,8 +15,6 @@ If you are interested in working on a project together, don't hesitate to get in
 👉🏻 [Instagram](https://www.instagram.com/allancolibao)<br/>
 👉🏻 [LinkedIn](https://www.linkedin.com/in/allan-colibao-635902151)<br/>
 
-
-## Thank you 🙌🏻
 
 @arcdev
 
