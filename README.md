@@ -6,7 +6,7 @@ Earlier in 2019, I started working as a Web Developer. And as part of my role, I
 
 Now, I focus on front-end stuff because I love to combine art and efficient code in building a product. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allancolibao&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allancolibao&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect 🧑🏻 
 
