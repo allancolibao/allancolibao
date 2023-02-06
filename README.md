@@ -10,8 +10,6 @@ I am always eager to take on new challenges and further develop my skills as a F
 
 ## Let's Connect 🚀
 
-If you are interested in working on a project together, don't hesitate to get in touch.
-
 🔗 [Portfolio](https://arcdev.me)<br/>
 🔗 [Twitter](https://twitter.com/allancolibao)<br/>
 🔗 [LinkedIn](https://www.linkedin.com/in/allan-colibao-635902151)<br/>
