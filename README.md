@@ -1,4 +1,4 @@
-I build what matters using React, Gatsby, Nextjs, Laravel, Nodejs, TailwindCSS, Typescript, Javascript, PHP, MySQL, and MongoDB.
+I build what matters using React, Gatsby, Nextjs, Laravel, Nodejs, TailwindCSS, Typescript, Javascript, PHP, MySQL, MongoDB, and GraphQL.
 
 Let's connect!
 
