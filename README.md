@@ -1,8 +1,8 @@
-I’m a frontend engineer with 5+ years of experience, focusing on delivering high-quality products. I have a deep understanding of the modern web platform, an eye for detail in code, efficiency, and design, and a proactive approach to advocating best practices. With experience in agile methodologies and collaborating with cross-functional teams, I thrive on building impactful solutions.
+I’m a frontend engineer with over 7 years of experience building high-quality, accessible web applications. I integrate modern AI tools into my workflow to speed up development and focus on what matters most: clean code, thoughtful UI/UX, and performance.
+
+With a solid grasp of the modern web platform and a strong eye for detail, I enjoy advocating for best practices, working closely with cross-functional teams in agile environments, and shipping products that make a real impact.
 
 Let's connect!
 
-[🔗 Portfolio](https://arcdev.me)<br/>
-[🔗 Twitter](https://twitter.com/allancolibao)<br/>
-[🔗 LinkedIn](https://www.linkedin.com/in/allan-colibao-635902151)<br/>
+[🔗 LinkedIn](https://www.linkedin.com/in/allan-colibao-635902151)
 
